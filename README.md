@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-tushar-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=s-tushar-01&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/4ae9a142-31c1-43f3-befa-3bb470230b2b" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
